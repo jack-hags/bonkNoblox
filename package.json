@@ -1,6 +1,6 @@
 {
   "name": "noblox-bonk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "interact with noblox.js that works for bonk on vercel.",
   "main": "lib/index.js",
   "types": "typings/index.d.ts",
